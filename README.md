@@ -31,5 +31,4 @@ The frontend is a Next.js app and the backend is a FastAPI service that handles 
   - `backend/fastapi_app/ai_utils.py` — AI integration, transcription and grading helpers
   - `backend/transcribe.py` — command-line transcription helper
 
-```
 
